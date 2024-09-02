@@ -1,0 +1,10 @@
+name: ZestianStats
+version: '1.0'
+main: p.zestianStats.ZestianStats
+api-version: '1.19'
+softdepend:
+  - PlaceholderAPI
+commands:
+  zestianstats:
+    description: Muestra los requisitos para el siguiente nivel.
+    usage: /rankupinfo

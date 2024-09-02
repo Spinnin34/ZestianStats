@@ -1,0 +1,14 @@
+p\zestianStats\Manager\RewardManager.class
+p\zestianStats\Manager\KillManager$1.class
+p\zestianStats\Utils\Placeholder\papi.class
+p\zestianStats\commands\StatsCommand.class
+p\zestianStats\Manager\SkillsManager.class
+p\zestianStats\Utils\DatabaseTask.class
+p\zestianStats\Listener\PlayerKillListener.class
+p\zestianStats\Utils\StatsUtils.class
+p\zestianStats\Manager\KillManager.class
+p\zestianStats\ZestianStats.class
+p\zestianStats\Utils\DatabaseQueue.class
+p\zestianStats\Manager\KillManager$3.class
+p\zestianStats\Manager\KillManager$2.class
+p\zestianStats\Manager\DatabaseManager.class

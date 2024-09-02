@@ -1,0 +1,14 @@
+
+reward:
+  default:
+    commands:
+      - 'say %player% ha recibido una recompensa por su kill!'
+      - 'give %player% diamond 1'
+  streak:
+    5:
+      commands:
+        - 'say ¡Felicidades %player%! Has alcanzado una racha de 5 kills!'
+    10:
+      commands:
+        - 'say Increíble %player%! ¡Has alcanzado una racha de 10 kills!'
+        - 'give %player% emerald 1'
